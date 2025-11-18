@@ -30,7 +30,7 @@ YUKI is an anime store landing page showcasing trending and top anime, complete 
 ## 🌐 Live Demo
 
 Add your live website link here:  
-**[https://About-Me/](https://ibrahim-abou-al-saud.github.io/YUKI/)**
+**[https://YUKI/](https://ibrahim-abou-al-saud.github.io/YUKI/)**
 
 ---
 
